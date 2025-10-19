@@ -30,7 +30,7 @@ div.title{
 }
 a{
     color:white;
-    background-color: rgb(248, 198, 36);
+    background-color: rgb(13, 175, 40);
     padding:8px 16px;
     border-radius: 25px;
     margin:16px; 
@@ -38,14 +38,14 @@ a{
 }
 a:link{
     color:white;
-    background-color: rgb(248, 198, 36);
+    background-color: rgb(13, 175, 40);
 }
 a:visited{
     color:white;
-    background-color: rgb(248, 198, 36);
+    background-color: rgb(13, 175, 40);
 }
 a:hover{
-    color:rgb(248, 198, 36);
+    color:rgb(13, 175, 40);
     background-color: white;
 }
 .t-s1{
@@ -53,11 +53,10 @@ a:hover{
     line-height: 250px;
 }
 .t-s2{
-    color:rgb(248, 198, 36);
+    color:rgb(13, 175, 40);
     font-size:60px;
 }
 .t-s3{
     font-size:32px;
     border-bottom: 3px solid white;
-
 }
